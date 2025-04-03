@@ -1,1 +1,1 @@
-# multiple-disease-prediction
+# Multiple_Disease_Prediction
