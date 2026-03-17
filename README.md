@@ -135,7 +135,7 @@ Each disease has its own independently trained ML model. Below is a summary:
 | Serum Cholesterol | In mg/dl |
 | Fasting Blood Sugar | > 120 mg/dl (1 = True, 0 = False) |
 | Max Heart Rate | Maximum heart rate achieved |
-| ... | *(add remaining features)* |
+| ... | *( remaining features)* |
 
 ### 🩸 Diabetes
 | Parameter | Description |
@@ -159,7 +159,7 @@ Each disease has its own independently trained ML model. Below is a summary:
 | Sugar | Sugar levels (0–5) |
 | Red Blood Cells | Normal / Abnormal |
 | Hemoglobin | In gms |
-| ... | *(add remaining features)* |
+| ... | *( remaining features)* |
 
 ---
 
